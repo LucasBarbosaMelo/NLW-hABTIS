@@ -31,8 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos'.
-[Visite o projeto online] (https://Lucabmelo.github.io/NLW-hABTIS/)
+O Habits é um app para ajudar a rastrear os hábitos.
+[Visite] (https://Lucabmelo.github.io/NLW-hABTIS/)
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/U89PUfR8NBRGr5296PYX7S/Habits-(e)-(Community)?node-id=6%3A910&t=iQrkmJY0dnzvV6wM-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
